@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T05:20:21.801Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="7Xn1r_bToLL0di8KhL2y" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-14T05:20:56.059Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="oZKATXD7h5-tnxn78vog" version="20.3.0" type="github">
   <diagram id="WRHZwlT_71HgKPN_aGMy" name="Page-1">
-    <mxGraphModel dx="2198" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2269" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,7 +72,7 @@
         <mxCell id="A96Na5WSrGFk0z5_Si4v-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A96Na5WSrGFk0z5_Si4v-29" target="A96Na5WSrGFk0z5_Si4v-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A96Na5WSrGFk0z5_Si4v-29" value="1. CRUD Tabs&lt;br&gt;2. Tagging Books to show in tabs&lt;br&gt;3." style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;" vertex="1" parent="1">
+        <mxCell id="A96Na5WSrGFk0z5_Si4v-29" value="1. CRUD Tabs&lt;br&gt;2. Tagging Books to show in tabs&lt;br&gt;3. Adding Documents as children of books" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="260" y="40" width="230" height="120" as="geometry" />
         </mxCell>
       </root>
